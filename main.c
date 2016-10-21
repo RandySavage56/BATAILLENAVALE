@@ -3,6 +3,8 @@
 
 //BATAILLE NAVALE AVEC FONCTIONS ET SAUVEGARDE, 2 MODES DE JEU
 
+//djfhshfkdfkshf
+
 void saisieDimMap(int* tailleX, int* tailleY){
 
     do{
