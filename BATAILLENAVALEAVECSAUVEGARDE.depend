@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476891566 source:c:\users\perso\desktop\donnee thomas\c\bataillenavaleavecsauvegarde\main.c
+	<stdio.h>
+	<stdlib.h>
+
